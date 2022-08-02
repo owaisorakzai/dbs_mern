@@ -1,0 +1,67 @@
+.hero {
+  background-image: url('../../assets/img/Inverted.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+section {
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.hero {
+}
+
+body {
+  font-family: 'Roboto';
+}
+
+strong {
+  color: #cc0000;
+}
+
+p {
+  color: #424242;
+}
+
+#image-home {
+  width: 90%;
+}
+
+.row {
+  margin-top: 50px;
+}
+
+.reviews {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.reviews h1 {
+  padding-top: 15px;
+  font-weight: 600;
+}
+
+.reviews h1 {
+  background-color: black;
+}
+
+.blog-img {
+  width: 640px;
+  padding-bottom: 21px;
+}
+
+h2, h1, h3, h4 {
+  font-weight: 600;
+}
+
+.blog-section .container h1 {
+  text-align: center;
+}
+
+.blog-section {
+  margin-top: 50px;
+}
+
